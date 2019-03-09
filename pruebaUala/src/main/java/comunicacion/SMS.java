@@ -6,7 +6,7 @@ public class SMS implements MedioDeComuncacion {
 
     @Override
     public void notificarACliente(Usuario usuario) {
-        System.out.println("se notifico via sms");
+      //Se notifica vial SMS
         
     }
 
